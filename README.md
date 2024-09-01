@@ -8,6 +8,6 @@ The inputs include real annotated fisheye images(yolo keypoint format) and histo
 Python, Numpy, OpenCV, Scipy
 # Example
 <p align="center">
-    <img src="relative/path/to/ppt1x3.gif" width="300" alt="Example1-vehicle">
-    <img src="relative/path/to/another_gif.gif" width="300" alt="Example2-vehicle">
+    <img src="gen-fish-ex1.gif" width="400" alt="Example1">
+    <img src="gen-fish-ex2.gif" width="400" alt="Example2">
 </p>
